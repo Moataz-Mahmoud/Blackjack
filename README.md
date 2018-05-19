@@ -1,5 +1,3 @@
-# Blackjack
-
 # Description
 This project is an implementation of the complete TDD course with Ruby on Udemy. The course is teaching you what's TDD (Test Deriven Development) and implement it step by step using Ruby and Rspec.
 
